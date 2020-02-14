@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d819fa6a.chunk.css",
+    "main.js": "/static/js/main.b5b83aa2.chunk.js",
+    "main.js.map": "/static/js/main.b5b83aa2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1335ed72.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1335ed72.js.map",
+    "static/js/2.d604d658.chunk.js": "/static/js/2.d604d658.chunk.js",
+    "static/js/2.d604d658.chunk.js.map": "/static/js/2.d604d658.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d31f7404f96501d1dcdd0b19f913eebc.js": "/precache-manifest.d31f7404f96501d1dcdd0b19f913eebc.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d819fa6a.chunk.css.map": "/static/css/main.d819fa6a.chunk.css.map",
+    "static/js/2.d604d658.chunk.js.LICENSE": "/static/js/2.d604d658.chunk.js.LICENSE",
+    "static/media/Garden-Overview.bmp": "/static/media/Garden-Overview.48d7f26a.bmp",
+    "static/media/App.css": "/static/media/RobotoMono-Regular.b4618f1f.ttf",
+    "static/media/bottom-left-border.svg": "/static/media/bottom-left-border.a16d12ad.svg",
+    "static/media/bottom-right-border.svg": "/static/media/bottom-right-border.9f725adf.svg",
+    "static/media/grid.svg": "/static/media/grid.0f0231ce.svg",
+    "static/media/open-circle.svg": "/static/media/open-circle.93e791db.svg",
+    "static/media/plant-circle.svg": "/static/media/plant-circle.626982d4.svg",
+    "static/media/robot_full.mp4": "/static/media/robot_full.0b05e2fb.mp4",
+    "static/media/simulation.mp4": "/static/media/simulation.5799d591.mp4",
+    "static/media/time_lapse.mp4": "/static/media/time_lapse.e354bb3d.mp4",
+    "static/media/top-left-border.svg": "/static/media/top-left-border.af5b0500.svg",
+    "static/media/top-right-border.svg": "/static/media/top-right-border.9bd8b459.svg",
+    "static/media/watercolor.jpg": "/static/media/watercolor.12cce5ba.jpg",
+    "static/media/zoom_grid.svg": "/static/media/zoom_grid.6db72178.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1335ed72.js",
+    "static/js/2.d604d658.chunk.js",
+    "static/css/main.d819fa6a.chunk.css",
+    "static/js/main.b5b83aa2.chunk.js"
+  ]
+}
